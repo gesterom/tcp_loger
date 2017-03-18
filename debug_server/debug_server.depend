@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1481756254 source:/home/gesterom/projekty/debug_server/main.cpp
+	"ncurses.h"
+	<iostream>
+	"SFML/Network.hpp"
+
+1481757402 source:/home/gesterom/projekty/tcp debuger/debug_server/main.cpp
+	"ncurses.h"
+	<iostream>
+	"SFML/Network.hpp"
+

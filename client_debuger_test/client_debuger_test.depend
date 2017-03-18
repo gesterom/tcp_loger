@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1481757525 source:/home/gesterom/projekty/client_debuger_test/main.cpp
+	<iostream>
+	<string>
+	"SFML/Network.hpp"
+	"SFML/Network/IpAddress.hpp"
+
+1481913130 source:/home/gesterom/projekty/tcp debuger/client_debuger_test/main.cpp
+	<iostream>
+	<string>
+	"SFML/Network.hpp"
+	"SFML/Network/IpAddress.hpp"
+
