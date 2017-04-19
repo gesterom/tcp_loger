@@ -1,0 +1,5 @@
+Framework'u do zdalnego zpisywania logów.
+20-04-2017
+Ukończono dziś projekt framework'u do zdalnego zapisywania logow z uruchomionych prgramow.
+Program wykorzystuje protokół TCP i przesyła nie szyfrowane dane pezpośrednio do programu nasłuchującego (domyślnie uruchomionego na localhost).
+W planach jest dodanie większej ilości funkcji "log()" oraz szyfrowanie danych aby można było wykorzystać ten framework w aplikacjach klienckich.

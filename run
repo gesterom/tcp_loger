@@ -1,0 +1,7 @@
+#!/bin/bash
+
+make
+clear
+gnome-terminal -e "./debuger.out"
+sleep 2
+./test.out
